@@ -26,7 +26,7 @@ import android.widget.ListView;
 import android.widget.TextView;
 import android.widget.Toast;
 
-//versao do livro
+//versao do livro armazenada no git
 public class RemindersActivity extends ActionBarActivity {
     private ListView mListView;
     private RemindersDbAdapter mDbAdapter;
